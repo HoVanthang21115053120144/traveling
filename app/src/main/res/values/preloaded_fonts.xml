@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/</item>
+        <item>@font/abril_fatface</item>
+        <item>@font/aguafina_script</item>
+        <item>@font/amaranth</item>
+        <item>@font/baloo_chettan</item>
+        <item>@font/bangers</item>
+        <item>@font/lemon</item>
+        <item>@font/lily_script_one</item>
+        <item>@font/mogra</item>
+        <item>@font/pattaya</item>
+        <item>@font/permanent_marker</item>
+        <item>@font/salsa</item>
+        <item>@font/seaweed_script</item>
+        <item>@font/suez_one</item>
+        <item>@font/timmana</item>
+        <item>@font/vampiro_one</item>
+        <item>@font/viga</item>
+    </array>
+</resources>
